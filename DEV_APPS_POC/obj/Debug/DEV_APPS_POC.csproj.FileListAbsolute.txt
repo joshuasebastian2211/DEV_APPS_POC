@@ -1,0 +1,138 @@
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\csc.exe
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\vbc.exe
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\VBCSCompiler.exe
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.dll.config
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.pdb
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Antlr3.Runtime.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.SqlServer.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Newtonsoft.Json.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Owin.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Helpers.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Mvc.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Optimization.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Razor.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Deployment.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Razor.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\WebGrease.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Helpers.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Mvc.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Optimization.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Razor.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Deployment.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Razor.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Antlr3.Runtime.pdb
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Newtonsoft.Json.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.SqlServer.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.dll
+c:\users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.pdb
+C:\Users\amadhavan\documents\visual studio 2015\Projects\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\csc.exe
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\vbc.exe
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\VBCSCompiler.exe
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.dll.config
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\DEV_APPS_POC.pdb
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Antlr3.Runtime.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.SqlServer.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Newtonsoft.Json.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Owin.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Helpers.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Mvc.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Optimization.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Razor.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Razor.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\WebGrease.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Helpers.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Mvc.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Optimization.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.Razor.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\System.Web.WebPages.Razor.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Antlr3.Runtime.pdb
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Newtonsoft.Json.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\EntityFramework.SqlServer.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.dll
+C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.pdb
