@@ -133,6 +133,5 @@ C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.
 C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.csprojResolveAssemblyReference.cache
 C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.dll
 C:\Users\test\Desktop\DEV_APPS_POC\DEV_APPS_POC\DEV_APPS_POC\obj\Debug\DEV_APPS_POC.pdb

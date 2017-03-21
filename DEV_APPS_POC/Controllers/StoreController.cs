@@ -43,6 +43,13 @@ namespace MvcMusicStore.Controllers
             return View(album);
         }
 
+        public ActionResult Delete(int id)
+        {
+            var album = storeDB.Albums.Find(id);
+
+            return View(album);
+        }
+
         //
         // GET: /Store/GenreMenu
 
